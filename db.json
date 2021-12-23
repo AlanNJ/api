@@ -1,0 +1,104 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "password": "typicode",
+      "phone": "typicode",
+      "destination": []
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "phone": "a",
+      "id": 3,
+      "destinations": [
+        {
+          "start": "dgdgdgdg",
+          "end": "dgdgdgdsg",
+          "id": "3",
+          "date": "2021-12-21"
+        }
+      ]
+    },
+    {
+      "name": "rrr",
+      "email": "rrr",
+      "password": "rrr",
+      "phone": "44",
+      "id": 4,
+      "destinations": [
+        {
+          "start": "rrrrr",
+          "end": "rrrrr",
+          "id": 4,
+          "date": "2021-12-23"
+        }
+      ]
+    },
+    {
+      "name": "jiban",
+      "email": "jiban",
+      "password": "jiban",
+      "phone": "11",
+      "id": 5,
+      "destinations": [
+        {
+          "start": "sfsfsf",
+          "end": "sfsfs",
+          "id": 5,
+          "date": "2021-12-23"
+        }
+      ]
+    },
+    {
+      "name": "mm",
+      "email": "mm",
+      "password": "mm",
+      "phone": "11",
+      "id": 6,
+      "destinations": [
+        {
+          "start": "New York",
+          "end": "California",
+          "id": 6,
+          "date": "2021-12-23"
+        }
+      ]
+    },
+    {
+      "name": "xxx",
+      "email": "xxx",
+      "password": "xxx",
+      "phone": "1",
+      "id": 7
+    },
+    {
+      "name": "yyyy",
+      "email": "yyyy",
+      "password": "yyyy",
+      "phone": "6",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "phone": "1",
+      "id": 10,
+      "destinations": [
+        {
+          "start": "ttt",
+          "end": "ttt",
+          "id": 10,
+          "date": "2021-12-23"
+        }
+      ]
+    }
+  ]
+}
